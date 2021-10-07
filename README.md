@@ -27,4 +27,4 @@
   
   ##
   
-  ![Snake animation](https://github.com/ferla9720/ferla9720/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/riffs9720/riffs9720/blob/output/github-contribution-grid-snake.svg)
