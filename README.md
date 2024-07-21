@@ -1,4 +1,4 @@
-### Bem vindo ao meu portifólio do GitHub. Me chamo Ricardo Ferla Silva, sou estudante de Ciência da computação e desenvolvedor Java.
+### Bem vindo ao meu portifólio do GitHub. Me chamo Ricardo Ferla Silva e sou desenvolvedor Java.
 
 
 - 🔭 Atualmente tabalho como PJ em desenvolvimento Java
